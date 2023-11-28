@@ -1,3 +1,3 @@
 # NurseScheduleProblem-GenaticAlgorithm-
-[embed]NurseScheduleProblem.pdf[/embed]
+[embed]https://github.com/anaas8/NurseScheduleProblem-GenaticAlgorithm-/blob/main/NurseScheduleProblem.pdf[/embed]
  
